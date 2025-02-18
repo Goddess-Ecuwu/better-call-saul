@@ -1,7 +1,7 @@
 body {
     font-size: 20px;
     font-family: "Gill Sans", "Gill Sans MT", sans-serif;
-    background-color: tan;
+    background-color: cornsilk;
 }
 
 section {
@@ -17,4 +17,5 @@ figure {
 }
 img {
     box-shadow: 0px 0px 5px Black;
+	border-radius: 1rem;
 }
