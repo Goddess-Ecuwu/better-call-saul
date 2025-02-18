@@ -1,7 +1,7 @@
 body {
     font-size: 20px;
     font-family: "Gill Sans", "Gill Sans MT", sans-serif;
-    background-color: khaki;
+    background-color: tan;
 }
 
 section {
@@ -16,5 +16,5 @@ figure {
     margin-top: 3rem;
 }
 img {
-    border-radius: 1rem;
+    box-shadow: 0px 0px 5px Black;
 }
